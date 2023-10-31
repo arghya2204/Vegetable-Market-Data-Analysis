@@ -70,10 +70,6 @@ The project followed a systematic methodology consisting of the following key st
    - Data visualization techniques were utilized to present the findings in a clear and compelling manner.
    - A diverse array of charts, graphs, and visual representations were crafted to depict price trends, seasonal patterns, and the comparative analysis of income groups' spending.
 
-5. **Reporting and Documentation:**
-   - The major findings and insights were succinctly summarized.
-   - The project methodology, results, and limitations were diligently documented in an extensive README file, ensuring accessibility for all stakeholders.
-
 This systematic approach allowed for a rigorous analysis of the vegetable market, offering a comprehensive understanding of price dynamics, affordability, and the broader quick commerce landscape in Delhi.
 
 
