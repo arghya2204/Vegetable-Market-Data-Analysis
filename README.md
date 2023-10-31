@@ -1,7 +1,6 @@
-# Vegetable Market Analysis 
+# Vegetable Market Analysis
 
 ![title](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/7a56e757-b170-4c0f-ac6a-e6d8ac691728)
-
 
 ## Introduction
 
@@ -11,8 +10,7 @@ This project focuses on analyzing vegetable market data from the Noida Vegetable
 
 1. Analyzing vegetable price trends and identifying seasonal vegetables.
 2. Determining the affordability of vegetable baskets for low, middle, and high-income families.
- ![income](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/56b892bc-035a-4e65-ade6-b782667966b0)
-
+   ![income](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/56b892bc-035a-4e65-ade6-b782667966b0)
 
 4. Analyzing price changes over time for each income group.
 5. Conducting a case study on the quick commerce vegetable business in Delhi.
@@ -24,6 +22,7 @@ The project utilizes data from various sources:
 - Noida Vegetable Market: Data includes monthly vegetable prices, market demand, and seasonal variations.
 - Nearby Markets in Delhi: Comparative data for price analysis.
 - Income Group Data: Information on low, middle, and high-income families and their spending on vegetables.
+
 ## Python Files 🐍
 
 ### Data Extraction 🌐
@@ -31,7 +30,6 @@ The project utilizes data from various sources:
 
 ### Data Preprocessing 🧹
 - In the preprocessing phase, data is cleaned, missing values are handled, and exploratory data analysis is performed. The Jupyter Notebook `Preprocessing_EDA.ipynb` includes the cleaning and visualization code.
-
 
 ## DATA 📊
 
@@ -41,8 +39,7 @@ The project utilizes data from various sources:
 ### Cleaned Data 🧼
 - The cleaned data is saved in `clean_vegg.csv`.
 
-
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+## <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files/Folder| Description |
 | ------------- | ------------- |
@@ -52,13 +49,33 @@ The project utilizes data from various sources:
 
 ## Methodology
 
-The project followed these steps:
+The project followed a systematic methodology consisting of the following key steps:
 
-1. **Data Collection:** Collecting data from Noida Vegetable Market, nearby markets, and income group statistics.
+1. **Data Collection:**
+   - Data was sourced from multiple channels, including the Noida Vegetable Market, nearby markets in Delhi, and income group statistics.
+   - Extensive data variables were collected, encompassing monthly vegetable prices, market demand, seasonal variations, and detailed demographic information.
 
-2. **Data Transformation:** Structuring the data into relevant tables, including vegetable prices, income group spending, and market demand.
+2. **Data Transformation:**
+   - The collected data was meticulously transformed into structured datasets.
+   - Individual data tables were created to compartmentalize various aspects of the analysis, such as vegetable prices, income group spending, and market demand.
+   - Data quality was assured through thorough data cleaning, handling of missing values, and standardization of data formats.
 
-3. **Data Analysis:** Analyzing price trends, seasonal vegetables, affordability for different income groups, and conducting a case study on the quick commerce vegetable business.
+3. **Data Analysis:**
+   - A comprehensive data analysis was undertaken to unveil meaningful insights.
+   - Statistical techniques were employed to discern price trends, seasonality, and the influence of various factors on vegetable prices.
+   - The affordability of vegetable baskets for different income groups was assessed by scrutinizing the relationship between spending capacity and prices.
+   - A detailed case study was conducted on the quick commerce vegetable business in Delhi, delving into market size, competition, challenges, success factors, and technology integration.
+
+4. **Data Visualization:**
+   - Data visualization techniques were utilized to present the findings in a clear and compelling manner.
+   - A diverse array of charts, graphs, and visual representations were crafted to depict price trends, seasonal patterns, and the comparative analysis of income groups' spending.
+
+5. **Reporting and Documentation:**
+   - The major findings and insights were succinctly summarized.
+   - The project methodology, results, and limitations were diligently documented in an extensive README file, ensuring accessibility for all stakeholders.
+
+This systematic approach allowed for a rigorous analysis of the vegetable market, offering a comprehensive understanding of price dynamics, affordability, and the broader quick commerce landscape in Delhi.
+
 
 ## Results
 
@@ -66,7 +83,7 @@ The project followed these steps:
 
 - Seasonal price patterns with the lowest prices in April and the highest in February.
 - Similar vegetable prices between Noida and nearby markets, indicating consistent pricing trends.
-  ![price similer](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/52d53cbc-b440-48da-b79c-512be2a58933)
+  ![price similar](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/52d53cbc-b440-48da-b79c-512be2a58933)
 
 - Different spending power on vegetables for low, middle, and high-income families.
 - Fluctuations in vegetable prices impact the affordability of different income groups.
